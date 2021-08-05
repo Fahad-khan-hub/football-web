@@ -1,0 +1,51 @@
+/* font-style */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* top-section */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ h1{
+     font-size: 56px;
+     color: white;
+ }
+ .top-sec-1{
+     background-color: rgb(45, 54, 182);
+     margin-top: 0px;
+     width: 1440;
+     height: 3750;
+     display: flex;
+ }
+.top-section img{
+  height:438px;
+  width: 556px;
+} 
+.image-banar{
+    padding-left: 285px;
+    padding-top: 100px;
+}
+.btn1{
+    color:white;
+    text-decoration: none;
+    background-color: #E02C6D;
+    margin-left:  80px;
+    
+    padding: 10px 30px; 
+}
+.copa{
+    padding-left: 164px;
+    padding-top: 80px;
+}
+.copa-America{
+    padding-left: 80px;
+}
+.copa-foot{
+    padding-left:80px ;
+}
+.copa-ball{
+    padding-left: 80px;
+}
+/* font */
+.fas-fa-arrow-right{
+   padding-left: 10px;
+}
