@@ -49,3 +49,35 @@ body{
 .fas-fa-arrow-right{
    padding-left: 10px;
 }
+/*----------------------------------- 2nd section players ----------------------------------- */
+
+.two-section{
+    display: flex;
+    justify-content: center;
+
+}
+
+.conteiner{
+    width: 1050px;
+    height: 474px;
+    
+}
+.players{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 70px;
+}
+.player img{
+     width: 300px;
+     height: 326px;
+     
+    padding: 10px;
+     box-shadow: 20px 20px  50px skyblue;
+     border-radius: 10px;
+     margin-bottom: 80px;
+}
+ 
+ 
+.player{
+ 
+}
