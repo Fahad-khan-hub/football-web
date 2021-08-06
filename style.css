@@ -81,3 +81,20 @@ body{
 .player{
  
 }
+.third-section{
+    margin-top: 2300px;
+    margin-left: 40px;
+    display: flex;
+}
+ .trd-sec{
+     background-image: url(players/Logo.png);
+     width: 100%;
+     background-repeat: no-repeat;
+ }
+ footer{
+     text-align: center;
+ }
+ .ins{
+     font-size: 20px;
+ }
+ 
